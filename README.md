@@ -1,6 +1,8 @@
 # Sentinal Security Utilities
 
-Sentinal Security Utilities is a powerful and utility-focused Discord bot designed to enhance server security and provide essential tools for server management. Built with Python and the `discord.py` library, Sentinal Security Utilities is designed for server-wide use, offering a variety of features to optimize server management and enhance user interactions.
+**Sentinal Security Utilities** is a powerful and utility-focused Discord bot designed to enhance server security and provide essential tools for server management. Built with Python and the `discord.py` library, **Sentinal Security Utilities** is designed to improve server security and simplify management. It provides tools for finding data on Roblox & Discord accounts in a streamlined manner, making it easier for server admins and SRAD to find alternative accounts.  
+
+In addition to account lookup tools, the bot includes commands for retrieving detailed server information, managing invites, moderating server activity, and checking bot responsiveness. With commands like `/channelinfo`, `/roleinfo`, `/robloxinfo`, and more, the bot ensures efficient server management while maintaining a secure and well-organized environment.
 
 ## License
 
