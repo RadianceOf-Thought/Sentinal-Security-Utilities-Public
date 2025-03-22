@@ -15,7 +15,6 @@ For more details, see the [LICENSE](LICENSE) file.
 
 - **Information Tools**: Easily lookup channel, role, and other information about servers.
 - **Utility Commands**: Perform detailed lookup of Roblox & Discord users.
-- **Customizable**: Easily modify and extend the bot's functionality.
 - **Efficient**: Lightweight and optimized for performance.
 ---
 
